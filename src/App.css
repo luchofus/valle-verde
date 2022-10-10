@@ -3,14 +3,14 @@
   margin: 0%;
 }
 .ul-navbar{
-  padding: 30px;
+  margin: 20px;
 }
 .ul-navbar li{
   list-style: none;
 }
 .ul-navbar li a{
   color: white;
-  padding: 30px;
+  padding: 15px 30px;
   list-style: none;
   text-decoration: none;
   cursor: pointer;
@@ -21,13 +21,28 @@
 nav{
   background-color: rgb(95, 233, 95);
 }
-.fa-cart-shopping{
-  padding: 30px 50px;
-  color: white;
-}
 
 .text-diet{
   background-color: rgb(95, 233, 95);
   display: block;
   margin: 0 auto;
+}
+.cont-link-instagram{
+  background-color: rgb(68, 173, 68);
+}
+.fa-instagram{
+  color:white;
+  font-weight: 500;
+  padding: 6px 15px;
+}
+.link-cart{
+  text-decoration: none;
+  color:white;
+  font-weight: 500;
+  padding: 6px 15px; 
+}
+.fa-cart-shopping{
+  /* color:white;
+  font-weight: 500;
+  padding: 6px 15px;  */
 }
